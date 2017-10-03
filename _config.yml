@@ -1,0 +1,21 @@
+# Site settings
+title: Anthony Mendola Blog
+header-img: img/home-bg.png
+email: anthonymendola@gmail.com
+copyright_name: Anthony-Mendola
+description: > # this means to ignore newlines until "baseurl:"
+  Journey from accountant to full stack web developer
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Anthony-Mendola
+learn_profile: Anthony-Mendola
+email_username: anthonymendola@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
