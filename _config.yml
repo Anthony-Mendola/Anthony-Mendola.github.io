@@ -1,10 +1,10 @@
 # Site settings
-title: Anthony Mendola Blog
+title: Accountant to Programmer
 header-img: img/home-bg.png
 email: anthonymendola@gmail.com
 copyright_name: Anthony-Mendola
 description: > # this means to ignore newlines until "baseurl:"
-  Journey from accountant to full stack web developer
+  Journey of an Auditor to Full Stack Web Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Anthony-Mendola
