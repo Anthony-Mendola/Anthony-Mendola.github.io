@@ -6,7 +6,7 @@ permalink:  what_do_you_do_when_youre_stuck
 ---
 
 
-![](https://static.pexels.com/photos/577585/pexels-photo-577585.jpeghttp://)
+![](http:/www.pexels.com/photo/coding-computer-data-depth-of-field-577585/)
 
 *1. I don't know where to start*
 
