@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "What do you do when you're stuck?"
-date:       2017-11-11 19:39:41 +0000
+date:       2017-11-11 14:39:42 -0500
 permalink:  what_do_you_do_when_youre_stuck
 ---
 
 
-![](https://static.pexels.com/photos/577585/pexels-photo-577585.jpeg
+![](https://static.pexels.com/photos/577585/pexels-photo-577585.jpeghttp://)
 
 *1. I don't know where to start*
 
