@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Portfolio Project: CLI Data Gem"
-date:       2018-01-31 05:45:22 +0000
+date:       2018-01-31 00:45:23 -0500
 permalink:  portfolio_project_cli_data_gem
 ---
 
 
 For my first portfolio project in Flatiron School I was given the task to create a CLI (Command Line Interface) Ruby Gem. I initiallity started to think of ideas with the intention in mind to create something that people will find very useful. 
-After a bit of brainstorming, I remembered that when I worked in the constrluction field, it was always difficult for employers to find laborers for short-term projects. At times i'd be given the task to go on craigslist, type in all my search criteria, different areas, etc which would take lots of time. Wouldn't it be great if I could just boot up my computer type one word and get a list of laborers who are looking for work, without having to scour through craigslist?!
+After a bit of brainstorming, I remembered that when I worked in the construction industry, it was always difficult for employers to find laborers for short-term projects. At times i'd be given the task to go on craigslist, type in all my search criteria, different areas, etc which would take lots of time. Wouldn't it be great if I could just boot up my computer type one word and get a list of laborers who are looking for work, without having to scour through craigslist?!
 
 **First Step:**
 
