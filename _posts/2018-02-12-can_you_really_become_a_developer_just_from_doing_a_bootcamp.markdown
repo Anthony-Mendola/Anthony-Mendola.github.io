@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Can you really become a developer "just" from doing a bootcamp?"
+title:      "Become a developer "just" from doing a bootcamp"
 date:       2018-02-12 13:09:51 -0500
 permalink:  can_you_really_become_a_developer_just_from_doing_a_bootcamp
 ---
