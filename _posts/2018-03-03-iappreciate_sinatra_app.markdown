@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "iAppreciate Sinatra App"
-date:       2018-03-03 20:09:58 +0000
+date:       2018-03-03 15:09:59 -0500
 permalink:  iappreciate_sinatra_app
 ---
 
 
-Building this app was an amazing experience. Combining everything i've learned so far into this beautiful creation gave me the strongest sense of accomplishment. I love learning by doing because it's genuinely fun. I always say, it's all about enjoying the journey!
+Building this app was an amazing experience. Combining everything I've learned so far into this beautiful creation gave me the strongest sense of accomplishment. I love learning by doing because it's genuinely fun. I always say, it's all about enjoying the journey!
 
 It didn't take too much brainstorming to come up with the idea for this app. I really wanted to build something that would tie together another one of my passions, quantum physics, and coding. I was inspired after reading about experiments by Dr. Masuru Emoto. In his experiments he exposes water to words (voice or written) or feelings (prayer or visualizations) and then looks at them under a microscope to see how they've changed. For example, when he says the word "appreciation" next to the water, it changes from a normal molecule to a beautiful molecule resembling a snowflake. When exposed to words like "hate", the molecules become ugly and distorted. Now imagine our bodies are made of more than 60% of water, doesn't it make sense that we can actually change our bodies to promote things like wellness through feelings of appreciation? The iAppreciate app allows you to record moments of appreciation so that you can come back to them at anytime to get back into that feeling of appreciation, thus changing the chemistry of your body. 
 
