@@ -2,7 +2,7 @@
 layout: post
 title:      "Become a developer "just" from doing a bootcamp"
 date:       2018-02-12 13:09:51 -0500
-permalink:  Become_a_developer_just_from_doing_a_bootcamp
+permalink:  become_a_developer_just_from_doing_a_bootcamp
 ---
 
 
