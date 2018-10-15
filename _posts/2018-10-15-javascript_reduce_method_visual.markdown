@@ -1,14 +1,16 @@
 ---
 layout: post
 title:      "JavaScript Reduce Method Visual"
-date:       2018-10-15 17:16:50 +0000
+date:       2018-10-15 13:16:51 -0400
 permalink:  javascript_reduce_method_visual
 ---
 
-## Sum Example
+
 
 What is reduce? 
 Reduce is an extremely useful array method similar to map and filter but more flexible. It gives you full control of it's output. Using an array as an input, you can get one single element (let's say an Object, or a Number, or another Array) based on the callback function (the first argument) which gets the accumulator and current element parameters.
+
+# Sum Example
 
 The best way to explain reduce is to visualize it. A common way to use to reduce is to sum an array. It allows you to take this array of numbers and compute a single result. 
 
@@ -30,7 +32,7 @@ The third iteration receives **8** as the *acc* (since 3 + 5 is 8), and *returns
 
 This process continues until the final iteration, where it *returns* **13 + 2**, which resolves to our final answer, **15**.
 
-## Data Array
+# Data Array Example
 I recently completed a React/Redux project with a Rails API and used the reduce method to fix a common problem. 
 
 **My data was coming back from my API like this:**
@@ -71,7 +73,7 @@ const desiredOutput = {
 
 ```
 
-How is reduce different from map or filter?
+# How is reduce different from map or filter?
 
 This image sums it up!
 ![](https://i.imgur.com/jQ2De3N.png)
