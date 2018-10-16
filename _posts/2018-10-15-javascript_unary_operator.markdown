@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript Unary (+) Operator"
-date:       2018-10-16 02:34:53 +0000
+date:       2018-10-15 22:34:54 -0400
 permalink:  javascript_unary_operator
 ---
 
