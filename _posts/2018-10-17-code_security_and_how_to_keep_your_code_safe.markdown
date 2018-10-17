@@ -1,8 +1,8 @@
 ---
 layout: post
-title:      "Code Security and How to Keep your Code Safe"
+title:      "Code Security and How to Keep your Data Safe"
 date:       2018-10-17 16:19:47 +0000
-permalink:  code_security_and_how_to_keep_your_code_safe
+permalink:  code_security_and_how_to_keep_your_data_safe
 ---
 
 
