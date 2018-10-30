@@ -1,17 +1,17 @@
 ---
 layout: post
 title:      "Learning a New Programming Language (Python) & Turning an Idea into an App "
-date:       2018-10-30 01:14:48 +0000
+date:       2018-10-29 21:14:48 -0400
 permalink:  learning_a_new_programming_language_python_and_turning_an_idea_into_an_app
 ---
 
 
-## "They say knowledge is power. I disagree. Knowledge is potential. Skill is what you do with knowledge. And that is power."
+**"They say knowledge is power. I disagree. Knowledge is potential. Skill is what you do with knowledge. And that is power."**
 -Kyle Simpson
 
 I've been really wanting to learn Python because of how versatile and crucial it is for data science. Especially algorithms and machine learning which are interests of mine. I've also been wanting to build a financial themed application and thought Python would be the perfect language to write it in. The most common language at FinTech companys is either Python or Java so I decided to get started with Python based on it's ease of learning. 
 
-### App Vision
+**App Vision**
 
 The greatest part of being a software engineer is the almost instantaneous ability to take a thought and turn into something. That's one of the reasons I made this career change to turn my thoughts into products that make the world a better place. 
 
@@ -22,7 +22,7 @@ The problem is, only the upperclass have access to these easy to understand inve
 My idea was to create an alternative asset investment marketplace where consumers can see every investment available from many companies. Users can invest directly without the need of an advisor or middleman. This gives power back into the hands of the individual. You can find exactly what you feel comfortable investing in and that aligns with your ideals. 
 
 
-### Tech Stack
+**Tech Stack**
 
 For my tech stack I chose Python, Django, & Postgres.
 
@@ -34,7 +34,7 @@ Flask is low level and can be described as a micro framework. It has very few fe
 
 Django on the other hand is more high level, gives a specific way to structure your files and write your code. It's much better for someone just learning Python and also provides very fast development by giving tons of command line tools. It also has great security features like authentication and an admin area built-in. 
 
-### Frontend Pages
+**Frontend Pages**
 
 * Home - Includes the 6 latest offerings sorted by newest - Search form
 * About - Includes affiliate of the month, about us section, and all partners & affiliates
@@ -46,7 +46,7 @@ Django on the other hand is more high level, gives a specific way to structure y
 * Dashboard (Inquiries) - When logged in, if a user makes an inquiry, they can keep track on the dashboard page
 * Admin - backend interface where a user with staff permissions can add offerings, view inquiries, and add affiliates
 
-### Functionality Specs
+**Functionality Specs**
 
 *	Manage offerings, affiliates, contact inquiries and website users via admin
 *	Role based users (staff and non-staff)
@@ -65,11 +65,11 @@ Django on the other hand is more high level, gives a specific way to structure y
 *	Both unregistered and registered users can submit form. If registered, can only submit one per investment offering
 
 
-### Future Functionality 
+**Future Functionality **
 
 Each user of the platform will have the ability to also rate and leave reviews. When leaving your money in the hands of someone else, you should be able to view real reviews. I'm pretty sure that's more important than restaurant reviews yet this type of feature is nowhere to be found today. I'd also like to work with affiliates and tie into their API to retrieve up-to-date data of their new offerings.
 
-### Conclusion
+**Conclusion**
 
 This was one of the more advanced feature -rich apps I've made and proud to have been able to learn a new language and put it into practice immediately. Python was fairly easy to learn as the foundational concepts are similar to Ruby or JavaScript except for some differences in syntax. If you would compare Django to something like Rails, Django is not as easy to use. Especially with the architecture of making a new "app" for every page/feature and then those files within the app have the same name as every other app. The structure of Rails is much more straight forward and easier to use, I don't see any advantages to use Django except for it's built-in admin management system.
 
